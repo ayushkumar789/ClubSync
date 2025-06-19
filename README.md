@@ -39,3 +39,83 @@ ClubSync is a centralized web platform designed to connect students with college
 
 ## 📁 Folder Structure (Simplified)
 
+
+/app
+/dashboard
+/clubs
+/events
+/components
+/elements
+/layout
+/lib
+firebase.ts
+db.ts
+/public
+/assets
+
+
+---
+
+## 📸 Screenshots
+
+| Feature | Preview |
+|--------|---------|
+| Homepage | ![Home](./public/assets/screenshots/home.png) |
+| Clubs List | ![Clubs](./public/assets/screenshots/clubs.png) |
+| Event Detail | ![Event](./public/assets/screenshots/event.png) |
+| Dashboard | ![Dashboard](./public/assets/screenshots/dashboard.png) |
+
+---
+
+## 🔧 Local Development
+
+1. Clone the repository:
+
+
+git clone https://github.com/AyushKumarPanigrahi/ClubSync.git
+cd ClubSync
+
+
+2. Install dependencies:
+
+
+npm install
+
+
+3. Configure Firebase:
+
+* Add your Firebase config in `/lib/firebase.ts`
+* Ensure Firestore has collections: `users`, `clubs`, `events`, `registrations`
+
+4. Run development server:
+npm run dev
+
+
+Visit `http://localhost:3000`
+
+---
+
+## 🙌 Team Members
+
+* **Ayush Kumar Panigrahi**
+* **L Sai Anirudh**
+* **Harshith Reddy**
+
+---
+
+## 🏁 Hackathon: AVENSIS 2025
+
+> ClubSync was developed during the 24-hour AVENSIS 2025 Hackathon under the Web Development domain. It promotes student engagement by making clubs and events more accessible and organized.
+
+---
+
+## 📜 License
+
+This project is open-source under the MIT License.
+
+
+
+---
+
+Let me know if you want a dark-mode preview screenshot or if you'd like to auto-generate this with icons in a rendered format.
+```
