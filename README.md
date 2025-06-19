@@ -56,16 +56,6 @@ db.ts
 
 ---
 
-## 📸 Screenshots
-
-| Feature | Preview |
-|--------|---------|
-| Homepage | ![Home](./public/assets/screenshots/home.png) |
-| Clubs List | ![Clubs](./public/assets/screenshots/clubs.png) |
-| Event Detail | ![Event](./public/assets/screenshots/event.png) |
-| Dashboard | ![Dashboard](./public/assets/screenshots/dashboard.png) |
-
----
 
 ## 🔧 Local Development
 
